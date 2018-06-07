@@ -1,0 +1,241 @@
+﻿  C_heap.cpp
+C_heap.cpp(38): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\conio.h(452): note: voir la déclaration de 'getch'
+  C_VectCrit.cpp
+  Cenumer.cpp
+Cenumer.cpp(95): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(75): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: voir la déclaration de 'fopen'
+Cenumer.cpp(79): warning C4996: 'spawnl': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _spawnl. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\process.h(302): note: voir la déclaration de 'spawnl'
+Cenumer.cpp(80): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: voir la déclaration de 'fopen'
+Cenumer.cpp(82): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: voir la déclaration de 'fscanf'
+Cenumer.cpp(83): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: voir la déclaration de 'fscanf'
+Cenumer.cpp(89): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\conio.h(452): note: voir la déclaration de 'getch'
+Cenumer.cpp(160): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(162): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(172): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(180): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(188): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(216): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(227): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(252): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(263): warning C4244: '=' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(264): warning C4244: '=' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(149): warning C4101: 'LB' : variable locale non référencée
+Cenumer.cpp(148): warning C4101: 'UB' : variable locale non référencée
+Cenumer.cpp(286): warning C4101: 'i' : variable locale non référencée
+Cenumer.cpp(339): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(352): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(353): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(355): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(374): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(375): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(376): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(430): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(431): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(437): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(457): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(461): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(463): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(465): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(468): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(493): warning C4101: 'j' : variable locale non référencée
+Cenumer.cpp(932): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(897): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: voir la déclaration de 'fopen'
+Cenumer.cpp(898): warning C4477: 'fprintf' : la chaîne de format '%lu' nécessite un argument de type 'unsigned long', mais l'argument variadique 5 est de type '__int64'
+  Cenumer.cpp(898): note: utilisez '%llu' dans la chaîne de format
+  Cenumer.cpp(898): note: utilisez '%Iu' dans la chaîne de format
+  Cenumer.cpp(898): note: utilisez '%I64u' dans la chaîne de format
+Cenumer.cpp(898): warning C4477: 'fprintf' : la chaîne de format '%ld' nécessite un argument de type 'long', mais l'argument variadique 6 est de type '__int64'
+  Cenumer.cpp(898): note: utilisez '%lld' dans la chaîne de format
+  Cenumer.cpp(898): note: utilisez '%Id' dans la chaîne de format
+  Cenumer.cpp(898): note: utilisez '%I64d' dans la chaîne de format
+Cenumer.cpp(1026): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: voir la déclaration de 'fopen'
+Cenumer.cpp(1027): warning C4477: 'fprintf' : la chaîne de format '%lu' nécessite un argument de type 'unsigned long', mais l'argument variadique 5 est de type '__int64'
+  Cenumer.cpp(1027): note: utilisez '%llu' dans la chaîne de format
+  Cenumer.cpp(1027): note: utilisez '%Iu' dans la chaîne de format
+  Cenumer.cpp(1027): note: utilisez '%I64u' dans la chaîne de format
+Cenumer.cpp(1027): warning C4477: 'fprintf' : la chaîne de format '%ld' nécessite un argument de type 'long', mais l'argument variadique 6 est de type '__int64'
+  Cenumer.cpp(1027): note: utilisez '%lld' dans la chaîne de format
+  Cenumer.cpp(1027): note: utilisez '%Id' dans la chaîne de format
+  Cenumer.cpp(1027): note: utilisez '%I64d' dans la chaîne de format
+Cenumer.cpp(1063): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\conio.h(452): note: voir la déclaration de 'getch'
+Cenumer.cpp(867): warning C4101: 'time' : variable locale non référencée
+Cenumer.cpp(867): warning C4101: 'temps' : variable locale non référencée
+Cenumer.cpp(1471): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\conio.h(452): note: voir la déclaration de 'getch'
+Cenumer.cpp(1716): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(1752): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(1765): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(1766): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(1767): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(1768): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(1789): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(1797): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(1799): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(1839): warning C4244: '=' : conversion de 'double' en '__int64', perte possible de données
+Cenumer.cpp(1855): warning C4244: '=' : conversion de 'double' en '__int64', perte possible de données
+Cenumer.cpp(1872): warning C4244: '=' : conversion de 'double' en '__int64', perte possible de données
+Cenumer.cpp(1882): warning C4244: '=' : conversion de 'double' en '__int64', perte possible de données
+Cenumer.cpp(1928): warning C4244: '=' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(1930): warning C4244: '=' : conversion de '__int64' en 'double', perte possible de données
+Cenumer.cpp(2010): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\conio.h(452): note: voir la déclaration de 'getch'
+Cenumer.cpp(1909): warning C4101: 'job' : variable locale non référencée
+Cenumer.cpp(2074): warning C4244: '=' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(2075): warning C4244: '=' : conversion de '__int64' en 'double', perte possible de données
+Cenumer.cpp(2135): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+Cenumer.cpp(2047): warning C4101: 'job' : variable locale non référencée
+Cenumer.cpp(2175): warning C4244: '=' : conversion de '__int64' en 'double', perte possible de données
+Cenumer.cpp(2175): warning C4244: '=' : conversion de 'double' en '__int64', perte possible de données
+Cenumer.cpp(2179): warning C4244: '=' : conversion de '__int64' en 'double', perte possible de données
+Cenumer.cpp(2179): warning C4244: '=' : conversion de 'double' en '__int64', perte possible de données
+Cenumer.cpp(2211): warning C4244: '=' : conversion de '__int64' en 'double', perte possible de données
+Cenumer.cpp(2218): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(2246): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(2260): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(2261): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(2262): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(2263): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(2271): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\conio.h(452): note: voir la déclaration de 'getch'
+Cenumer.cpp(2162): warning C4101: 'job' : variable locale non référencée
+Cenumer.cpp(2987): warning C4101: 'dominated' : variable locale non référencée
+Cenumer.cpp(2987): warning C4101: 'noeud' : variable locale non référencée
+Cenumer.cpp(2987): warning C4101: 'j' : variable locale non référencée
+Cenumer.cpp(2987): warning C4101: 'i' : variable locale non référencée
+Cenumer.cpp(3150): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(3151): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(3157): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(3173): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(3192): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(3196): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(3198): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(3200): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(3204): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(3231): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(3232): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(3233): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(3235): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+Cenumer.cpp(3238): warning C4244: 'argument' : conversion de '__int64' en 'int', perte possible de données
+c:\onedrive vincent tkindt\onedrive - univ-tours.fr\recherche\programmes\1ditildewcsum\algorithmes\exact\code thèse lei shang\code thèse lei\branchmemorize\pvw\Cliste.cpp(41): warning C4018: '<' : incompatibilité signed/unsigned
+  c:\onedrive vincent tkindt\onedrive - univ-tours.fr\recherche\programmes\1ditildewcsum\algorithmes\exact\code thèse lei shang\code thèse lei\branchmemorize\pvw\Cliste.cpp(36): note: pendant la compilation de la fonction membre '<Inconnu>' (classe <Inconnu>)
+  Cenumer.cpp(119): note: voir la référence à l'instanciation de la fonction modèle 'Cliste<C_VectCrit>::~Cliste(void)' en cours de compilation
+  c:\onedrive vincent tkindt\onedrive - univ-tours.fr\recherche\programmes\1ditildewcsum\algorithmes\exact\code thèse lei shang\code thèse lei\branchmemorize\pvw\Cenumer.hpp(39): note: voir la référence à l'instanciation de classe modèle 'Cliste<C_VectCrit>' en cours de compilation
+c:\onedrive vincent tkindt\onedrive - univ-tours.fr\recherche\programmes\1ditildewcsum\algorithmes\exact\code thèse lei shang\code thèse lei\branchmemorize\pvw\Cliste.cpp(135): warning C4018: '<=' : incompatibilité signed/unsigned
+  c:\onedrive vincent tkindt\onedrive - univ-tours.fr\recherche\programmes\1ditildewcsum\algorithmes\exact\code thèse lei shang\code thèse lei\branchmemorize\pvw\Cliste.cpp(127): note: pendant la compilation de la fonction membre '<Inconnu>' (classe <Inconnu>)
+  Cenumer.cpp(402): note: voir la référence à l'instanciation de la fonction modèle 'C_VectCrit *Cliste<C_VectCrit>::operator [](unsigned int)' en cours de compilation
+c:\onedrive vincent tkindt\onedrive - univ-tours.fr\recherche\programmes\1ditildewcsum\algorithmes\exact\code thèse lei shang\code thèse lei\branchmemorize\pvw\Cliste.cpp(189): warning C4018: '<=' : incompatibilité signed/unsigned
+  c:\onedrive vincent tkindt\onedrive - univ-tours.fr\recherche\programmes\1ditildewcsum\algorithmes\exact\code thèse lei shang\code thèse lei\branchmemorize\pvw\Cliste.cpp(164): note: pendant la compilation de la fonction membre '<Inconnu>' (classe <Inconnu>)
+  Cenumer.cpp(1294): note: voir la référence à l'instanciation de la fonction modèle 'void Cliste<C_VectCrit>::Inserer_position(T *,unsigned int)' en cours de compilation
+          with
+          [
+              T=C_VectCrit
+          ]
+c:\onedrive vincent tkindt\onedrive - univ-tours.fr\recherche\programmes\1ditildewcsum\algorithmes\exact\code thèse lei shang\code thèse lei\branchmemorize\pvw\Cliste.cpp(222): warning C4101: 'parcours' : variable locale non référencée
+  c:\onedrive vincent tkindt\onedrive - univ-tours.fr\recherche\programmes\1ditildewcsum\algorithmes\exact\code thèse lei shang\code thèse lei\branchmemorize\pvw\Cliste.cpp(220): note: pendant la compilation de la fonction membre '<Inconnu>' (classe <Inconnu>)
+  Cenumer.cpp(326): note: voir la référence à l'instanciation de la fonction modèle 'void Cliste<C_VectCrit>::ajouter_element(T *)' en cours de compilation
+          with
+          [
+              T=C_VectCrit
+          ]
+c:\onedrive vincent tkindt\onedrive - univ-tours.fr\recherche\programmes\1ditildewcsum\algorithmes\exact\code thèse lei shang\code thèse lei\branchmemorize\pvw\Cliste.cpp(301): warning C4018: '<=' : incompatibilité signed/unsigned
+  c:\onedrive vincent tkindt\onedrive - univ-tours.fr\recherche\programmes\1ditildewcsum\algorithmes\exact\code thèse lei shang\code thèse lei\branchmemorize\pvw\Cliste.cpp(284): note: pendant la compilation de la fonction membre '<Inconnu>' (classe <Inconnu>)
+  Cenumer.cpp(1041): note: voir la référence à l'instanciation de la fonction modèle 'void Cliste<C_VectCrit>::Supprimer_position(unsigned int)' en cours de compilation
+c:\onedrive vincent tkindt\onedrive - univ-tours.fr\recherche\programmes\1ditildewcsum\algorithmes\exact\code thèse lei shang\code thèse lei\branchmemorize\pvw\Cliste.cpp(321): warning C4018: '<' : incompatibilité signed/unsigned
+  Clistenoeud.cpp
+  Cnoeud.cpp
+  database.cpp
+database.cpp(229): warning C4244: '=' : conversion de 'double' en '__int64', perte possible de données
+database.cpp(355): warning C4244: '=' : conversion de '__int64' en 'int', perte possible de données
+database.cpp(400): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type '__int64'
+  database.cpp(400): note: utilisez '%lld' dans la chaîne de format
+  database.cpp(400): note: utilisez '%Id' dans la chaîne de format
+  database.cpp(400): note: utilisez '%I64d' dans la chaîne de format
+database.cpp(453): warning C4244: 'return' : conversion de '__int64' en 'int', perte possible de données
+database.cpp(511): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type '__int64'
+  database.cpp(511): note: utilisez '%lld' dans la chaîne de format
+  database.cpp(511): note: utilisez '%Id' dans la chaîne de format
+  database.cpp(511): note: utilisez '%I64d' dans la chaîne de format
+database.cpp(463): warning C4101: 'l_index' : variable locale non référencée
+database.cpp(520): warning C4244: 'return' : conversion de '__int64' en 'int', perte possible de données
+database.cpp(549): warning C4477: 'printf' : la chaîne de format '%3ld' nécessite un argument de type 'long', mais l'argument variadique 1 est de type '__int64'
+  database.cpp(549): note: utilisez '%lld' dans la chaîne de format
+  database.cpp(549): note: utilisez '%Id' dans la chaîne de format
+  database.cpp(549): note: utilisez '%I64d' dans la chaîne de format
+database.cpp(549): warning C4477: 'printf' : la chaîne de format '%3ld' nécessite un argument de type 'long', mais l'argument variadique 2 est de type '__int64'
+  database.cpp(549): note: utilisez '%lld' dans la chaîne de format
+  database.cpp(549): note: utilisez '%Id' dans la chaîne de format
+  database.cpp(549): note: utilisez '%I64d' dans la chaîne de format
+database.cpp(571): warning C4244: '=' : conversion de '__int64' en 'int', perte possible de données
+database.cpp(588): warning C4244: '=' : conversion de '__int64' en 'int', perte possible de données
+database.cpp(597): warning C4244: '+=' : conversion de '__int64' en 'int', perte possible de données
+database.cpp(600): warning C4244: '=' : conversion de '__int64' en 'int', perte possible de données
+database.cpp(634): warning C4018: '<' : incompatibilité signed/unsigned
+database.cpp(640): warning C4018: '<' : incompatibilité signed/unsigned
+database.cpp(686): warning C4244: '=' : conversion de '__int64' en 'int', perte possible de données
+database.cpp(687): warning C4244: '=' : conversion de '__int64' en 'int', perte possible de données
+database.cpp(629): warning C4101: 'i' : variable locale non référencée
+  donnees.cpp
+donnees.cpp(73): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: voir la déclaration de 'fopen'
+donnees.cpp(85): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: voir la déclaration de 'fscanf'
+donnees.cpp(117): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: voir la déclaration de 'fopen'
+donnees.cpp(118): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: voir la déclaration de 'fscanf'
+donnees.cpp(119): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: voir la déclaration de 'fscanf'
+donnees.cpp(120): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: voir la déclaration de 'fscanf'
+donnees.cpp(121): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1195): note: voir la déclaration de 'fscanf'
+  PVW.cpp
+PVW.cpp(37): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\time.h(475): note: voir la déclaration de 'ctime'
+PVW.cpp(63): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): note: voir la déclaration de 'fopen'
+PVW.cpp(65): warning C4477: 'fprintf' : la chaîne de format '%ld' nécessite un argument de type 'long', mais l'argument variadique 1 est de type '__int64'
+  PVW.cpp(65): note: utilisez '%lld' dans la chaîne de format
+  PVW.cpp(65): note: utilisez '%Id' dans la chaîne de format
+  PVW.cpp(65): note: utilisez '%I64d' dans la chaîne de format
+PVW.cpp(66): warning C4477: 'fprintf' : la chaîne de format '%ld' nécessite un argument de type 'long', mais l'argument variadique 1 est de type '__int64'
+  PVW.cpp(66): note: utilisez '%lld' dans la chaîne de format
+  PVW.cpp(66): note: utilisez '%Id' dans la chaîne de format
+  PVW.cpp(66): note: utilisez '%I64d' dans la chaîne de format
+PVW.cpp(67): warning C4477: 'fprintf' : la chaîne de format '%ld' nécessite un argument de type 'long', mais l'argument variadique 1 est de type '__int64'
+  PVW.cpp(67): note: utilisez '%lld' dans la chaîne de format
+  PVW.cpp(67): note: utilisez '%Id' dans la chaîne de format
+  PVW.cpp(67): note: utilisez '%I64d' dans la chaîne de format
+PVW.cpp(83): warning C4477: 'fprintf' : la chaîne de format '%ld' nécessite un argument de type 'long', mais l'argument variadique 1 est de type '__int64'
+  PVW.cpp(83): note: utilisez '%lld' dans la chaîne de format
+  PVW.cpp(83): note: utilisez '%Id' dans la chaîne de format
+  PVW.cpp(83): note: utilisez '%I64d' dans la chaîne de format
+PVW.cpp(84): warning C4477: 'fprintf' : la chaîne de format '%ld' nécessite un argument de type 'long', mais l'argument variadique 1 est de type '__int64'
+  PVW.cpp(84): note: utilisez '%lld' dans la chaîne de format
+  PVW.cpp(84): note: utilisez '%Id' dans la chaîne de format
+  PVW.cpp(84): note: utilisez '%I64d' dans la chaîne de format
+PVW.cpp(85): warning C4477: 'fprintf' : la chaîne de format '%ld' nécessite un argument de type 'long', mais l'argument variadique 1 est de type '__int64'
+  PVW.cpp(85): note: utilisez '%lld' dans la chaîne de format
+  PVW.cpp(85): note: utilisez '%Id' dans la chaîne de format
+  PVW.cpp(85): note: utilisez '%I64d' dans la chaîne de format
+PVW.cpp(97): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'double'
+PVW.cpp(33): warning C4101: 'debut' : variable locale non référencée
+c:\onedrive vincent tkindt\onedrive - univ-tours.fr\recherche\programmes\1ditildewcsum\algorithmes\exact\code thèse lei shang\code thèse lei\branchmemorize\pvw\Stat.h(16): warning C4244: '=' : conversion de '__int64' en 'double', perte possible de données
+  c:\onedrive vincent tkindt\onedrive - univ-tours.fr\recherche\programmes\1ditildewcsum\algorithmes\exact\code thèse lei shang\code thèse lei\branchmemorize\pvw\Stat.h(16): note: pendant la compilation de la fonction membre '<Inconnu>' (classe <Inconnu>)
+  PVW.cpp(47): note: voir la référence à l'instanciation de la fonction modèle 'Stat<__int64>::Stat(void)' en cours de compilation
+  PVW.cpp(47): note: voir la référence à l'instanciation de classe modèle 'Stat<__int64>' en cours de compilation
+c:\onedrive vincent tkindt\onedrive - univ-tours.fr\recherche\programmes\1ditildewcsum\algorithmes\exact\code thèse lei shang\code thèse lei\branchmemorize\pvw\Stat.h(69): warning C4477: 'fprintf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'double'
+  c:\onedrive vincent tkindt\onedrive - univ-tours.fr\recherche\programmes\1ditildewcsum\algorithmes\exact\code thèse lei shang\code thèse lei\branchmemorize\pvw\Stat.h(55): note: pendant la compilation de la fonction membre '<Inconnu>' (classe <Inconnu>)
+  c:\onedrive vincent tkindt\onedrive - univ-tours.fr\recherche\programmes\1ditildewcsum\algorithmes\exact\code thèse lei shang\code thèse lei\branchmemorize\pvw\Stat.h(78): note: voir la référence à l'instanciation de la fonction modèle 'double Stat<__int64>::getCpuTime(void)' en cours de compilation
+  Génération de code en cours...
+  Pvw.vcxproj -> C:\OneDrive Vincent Tkindt\OneDrive - univ-tours.fr\Recherche\Programmes\1ditildewCsum\Algorithmes\Exact\Code thèse Lei Shang\Code thèse Lei\BranchMemorize\PVW\..\Output\Pvw.exe
